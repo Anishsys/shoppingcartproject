@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "brandname": "Milkfood",
+      "prodname": "Milkfood Rich Desi Danedar Ghee (Carton)",
+      "quantity": 11,
+      "price": 408,
+      "mrp":498,
+      "imgurl":"https://www.bigbasket.com/media/uploads/p/l/40026269_3-milkfood-rich-desi-ghee.jpg",
+      "offertxt":"18 % OFF"
+    },
+    {
+      "brandname": "Grofers Mother's Choice",
+      "prodname": "Grofers Mother's Choice Desi Ghee",
+      "quantity": 11,
+      "price": 414,
+      "mrp":450,
+      "imgurl":"https://cdn.grofers.com/app/images/products/sliding_image/391299b.jpg",
+      "offertxt":"8 % OFF"
+    },
+    {
+      "brandname": "Amul",
+      "prodname": "Amul Pure Ghee (Carton)",
+      "quantity": 11,
+      "price": 439,
+      "mrp":460,
+      "imgurl":"https://www.bigbasket.com/media/uploads/p/l/191057_2-amul-pure-ghee.jpg",
+      "offertxt":""
+    },
+
+    {
+      "brandname": "Patanjali",
+      "prodname": "Patanjali Cow's Ghee",
+      "quantity": 11,
+      "price": 450,
+      "mrp":500,
+      "imgurl":"https://5.imimg.com/data5/EN/JC/GLADMIN-54284775/patanjali-cow-ghee-500ml-500x500.png",
+      "offertxt":""
+    },
+    {
+      "brandname": "Himalaya",
+      "prodname": "Triphala Bowel Wellness",
+      "quantity": 10,
+      "price": 560,
+      "mrp":600,
+      "imgurl":"https://images-na.ssl-images-amazon.com/images/I/41Mfx2PpB3L.jpg",
+      "offertxt":"5 % OFF"
+    },
+    {
+      "brandname": "Farm Naturelle",
+      "prodname": "Farm Naturelle-100% Pure Desi Sahiwal Cow Ghee",
+      "quantity": 10,
+      "price": 800,
+      "mrp":900,
+      "imgurl":"https://images-na.ssl-images-amazon.com/images/I/81LYJm0D0VL._SY741_.jpg",
+      "offertxt":""
+    },
+
+    {
+      "brandname": "Nandini",
+      "prodname": "Nandini Ghee, 500ml Pet Bottle",
+      "quantity": 12,
+      "price": 250,
+      "mrp":350,
+      "imgurl":"https://images-na.ssl-images-amazon.com/images/I/91T3eWreleL._SL1500_.jpg",
+      "offertxt":"5 % OFF"
+    },
+    {
+      "brandname": "Mother Dairy",
+      "prodname": "Mother Dairy Cow Ghee Pouch, 1L",
+      "quantity": 11,
+      "price": 434,
+      "mrp":467,
+      "imgurl":"https://images-na.ssl-images-amazon.com/images/I/71eEDDs6PLL._SL1500_.jpg",
+      "offertxt":"5 % OFF"
+    },
+    {
+      "brandname": "Nestle",
+      "prodname": "Nestle Everyday Ghee, 1L",
+      "quantity": 14,
+      "price": 456,
+      "mrp":487,
+      "imgurl":"https://images-na.ssl-images-amazon.com/images/I/818S83Kq3OL._SL1500_.jpg",
+      "offertxt":"5 % OFF"
+    },
+    {
+      "brandname": "Figaro",
+      "prodname": "Figaro Olive Oil Tin",
+      "quantity": 10,
+      "price": 281,
+      "mrp":321,
+      "imgurl":"https://images-na.ssl-images-amazon.com/images/I/71Tl5MqGKmL._SY450_.jpg",
+      "offertxt":"5 % OFF"
+    }
+  ]
+}
