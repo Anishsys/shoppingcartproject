@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anishsys/shoppingcartproject.git/static/css/main.4db48624.chunk.css",
+    "main.js": "/Anishsys/shoppingcartproject.git/static/js/main.22d380f3.chunk.js",
+    "main.js.map": "/Anishsys/shoppingcartproject.git/static/js/main.22d380f3.chunk.js.map",
+    "runtime-main.js": "/Anishsys/shoppingcartproject.git/static/js/runtime-main.749e5705.js",
+    "runtime-main.js.map": "/Anishsys/shoppingcartproject.git/static/js/runtime-main.749e5705.js.map",
+    "static/css/2.627926fe.chunk.css": "/Anishsys/shoppingcartproject.git/static/css/2.627926fe.chunk.css",
+    "static/js/2.c56f2954.chunk.js": "/Anishsys/shoppingcartproject.git/static/js/2.c56f2954.chunk.js",
+    "static/js/2.c56f2954.chunk.js.map": "/Anishsys/shoppingcartproject.git/static/js/2.c56f2954.chunk.js.map",
+    "index.html": "/Anishsys/shoppingcartproject.git/index.html",
+    "precache-manifest.0949ce32a2f43342e696f2dfc9b93334.js": "/Anishsys/shoppingcartproject.git/precache-manifest.0949ce32a2f43342e696f2dfc9b93334.js",
+    "service-worker.js": "/Anishsys/shoppingcartproject.git/service-worker.js",
+    "static/css/2.627926fe.chunk.css.map": "/Anishsys/shoppingcartproject.git/static/css/2.627926fe.chunk.css.map",
+    "static/css/main.4db48624.chunk.css.map": "/Anishsys/shoppingcartproject.git/static/css/main.4db48624.chunk.css.map",
+    "static/js/2.c56f2954.chunk.js.LICENSE.txt": "/Anishsys/shoppingcartproject.git/static/js/2.c56f2954.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Anishsys/shoppingcartproject.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.749e5705.js",
+    "static/css/2.627926fe.chunk.css",
+    "static/js/2.c56f2954.chunk.js",
+    "static/css/main.4db48624.chunk.css",
+    "static/js/main.22d380f3.chunk.js"
+  ]
+}
