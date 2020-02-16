@@ -90,9 +90,10 @@
     line-height: 1.4em;
  
   }
-  .shopping-cart .product-details .product-price{
-  font-weight:bold;
-}
+  .shopping-cart .product-details .product-price {
+    font-weight:bold;
+ 
+  }
   .shopping-cart .product-details .btncart{
     background: #07a307;
     color: #000;
