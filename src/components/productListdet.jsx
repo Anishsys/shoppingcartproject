@@ -115,7 +115,7 @@ class ProductListdet extends PureComponent {
           {productsdet}
           <Total total={this.state.total} qty={this.state.qty} />
         </div>
-        <p className="footercpy">Shopping Carts</p>
+        <p className="footercpy">Shopping Cart</p>
       </Fragment>
     );
   }
